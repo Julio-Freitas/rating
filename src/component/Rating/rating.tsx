@@ -69,7 +69,7 @@ const Rating = () => {
       <Styled.Footer>
         <a href="https://github.com/Julio-Freitas" target="_blank">
 
-          <img src={IconGit} /> Julio Freitas
+          <img src={IconGit} alt="icon git git" title="path git hub Julio" /> Julio Freitas
         </a>
         Challenge by{" "}
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
